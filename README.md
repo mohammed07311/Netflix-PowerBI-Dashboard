@@ -65,7 +65,7 @@ Data preparation was performed in Power Query:
 Dataset: Netflix Movies and TV Shows
 
 Source:
-https://www.kaggle.com/datasets/sunilkumar/netflix-shows
+https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 ---
 
